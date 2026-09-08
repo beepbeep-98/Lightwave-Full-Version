@@ -242,3 +242,6 @@ This repository serves as the official landing page for LightWave. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of LightWave today!**
+
+---
+**Last updated:** 2026-09-08 13:21:29 UTC
