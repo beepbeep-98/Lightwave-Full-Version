@@ -244,4 +244,4 @@ This repository serves as the official landing page for LightWave. The software 
 **Get the most recent version of LightWave today!**
 
 ---
-**Last updated:** 2026-09-11 13:16:41 UTC
+**Last updated:** 2026-09-11 17:32:57 UTC
